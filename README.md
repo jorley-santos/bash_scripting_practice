@@ -1,3 +1,3 @@
 # Bash Scripting Practice
 
-This repository was created to upload the scripts I use to practice my first steps using bash scripts
+##Repository created to store the scripts I will be using to practice some basic bash scripting operations
