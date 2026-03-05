@@ -1,7 +1,7 @@
 #!/bin/bash
 
-name="Jorley Santos da Silva"
-age="26"
+name="Max"
+age="17"
 profession="Biologo"
 lista=$(ls)
 
