@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ -d /home/if_statements ]
+if [ -d /home/if_statements/ ]
 then
 	echo "The provided folder exists."
 
