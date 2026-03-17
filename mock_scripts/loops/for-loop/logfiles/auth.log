@@ -1,0 +1,311 @@
+2026-03-04T00:17:03.541047-03:00 Casa CRON[4258]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-04T00:17:03.553983-03:00 Casa CRON[4258]: pam_unix(cron:session): session closed for user root
+2026-03-04T01:17:04.111237-03:00 Casa CRON[4310]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-04T01:17:04.167438-03:00 Casa CRON[4310]: pam_unix(cron:session): session closed for user root
+2026-03-04T14:17:01.163858-03:00 Casa CRON[4483]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-04T14:17:01.179369-03:00 Casa CRON[4483]: pam_unix(cron:session): session closed for user root
+2026-03-04T15:17:01.543499-03:00 Casa CRON[4702]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-04T15:17:01.579072-03:00 Casa CRON[4702]: pam_unix(cron:session): session closed for user root
+2026-03-04T16:17:01.684567-03:00 Casa CRON[4717]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-04T16:17:01.754915-03:00 Casa CRON[4717]: pam_unix(cron:session): session closed for user root
+2026-03-04T17:17:01.890172-03:00 Casa CRON[4732]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-04T17:17:01.972112-03:00 Casa CRON[4732]: pam_unix(cron:session): session closed for user root
+2026-03-04T18:17:02.048279-03:00 Casa CRON[4747]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-04T18:17:02.132843-03:00 Casa CRON[4747]: pam_unix(cron:session): session closed for user root
+2026-03-04T19:17:01.124595-03:00 Casa CRON[4892]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-04T19:17:01.133901-03:00 Casa CRON[4892]: pam_unix(cron:session): session closed for user root
+2026-03-04T20:17:02.214471-03:00 Casa CRON[5410]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-04T20:17:02.341756-03:00 Casa CRON[5410]: pam_unix(cron:session): session closed for user root
+2026-03-04T21:17:02.514418-03:00 Casa CRON[5419]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-04T21:17:02.576483-03:00 Casa CRON[5419]: pam_unix(cron:session): session closed for user root
+2026-03-04T22:17:02.919178-03:00 Casa CRON[5450]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-04T22:17:02.996123-03:00 Casa CRON[5450]: pam_unix(cron:session): session closed for user root
+2026-03-05T12:17:01.115497-03:00 Casa CRON[6243]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-05T12:17:01.123094-03:00 Casa CRON[6243]: pam_unix(cron:session): session closed for user root
+2026-03-05T13:17:01.289481-03:00 Casa CRON[6607]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-05T13:17:01.411523-03:00 Casa CRON[6607]: pam_unix(cron:session): session closed for user root
+2026-03-05T14:17:01.514060-03:00 Casa CRON[6940]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-05T14:17:01.529890-03:00 Casa CRON[6940]: pam_unix(cron:session): session closed for user root
+2026-03-05T14:18:57.776228-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/if_statements ; USER=root ; COMMAND=/usr/bin/chmod +x if_statement_mock.sh
+2026-03-05T14:18:57.784820-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-05T14:18:57.785630-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-05T15:03:39.303042-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/if_statements ; USER=root ; COMMAND=/usr/bin/chmod +x if_statement_2.sh
+2026-03-05T15:03:39.312962-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-05T15:03:39.315764-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-05T15:17:01.896764-03:00 Casa CRON[7604]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-05T15:17:01.907124-03:00 Casa CRON[7604]: pam_unix(cron:session): session closed for user root
+2026-03-05T15:20:22.236188-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/if_statements ; USER=root ; COMMAND=/usr/bin/chmod +x if_statement_6.sh
+2026-03-05T15:20:22.241446-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-05T15:20:22.243327-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-05T15:35:53.032377-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/if_statements ; USER=root ; COMMAND=/usr/bin/chmod +x if_statement_7.sh
+2026-03-05T15:35:53.036780-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-05T15:35:53.036901-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-05T15:38:47.543098-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/if_statements ; USER=root ; COMMAND=/usr/bin/chmod +x if_statement_9.sh
+2026-03-05T15:38:47.546786-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-05T15:38:47.546880-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-05T15:45:40.374917-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/if_statements ; USER=root ; COMMAND=/usr/bin/chmod +x if_statement_8.sh
+2026-03-05T15:45:40.379151-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-05T15:45:40.380135-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-05T15:45:46.323770-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/if_statements ; USER=root ; COMMAND=/usr/bin/apt update
+2026-03-05T15:45:46.324793-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-05T15:46:00.861206-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-05T15:46:00.869325-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/if_statements ; USER=root ; COMMAND=/usr/bin/apt install -y htop
+2026-03-05T15:46:00.869823-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-05T15:46:04.585084-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-05T19:49:57.336698-03:00 Casa sudo: pam_unix(sudo:auth): conversation failed
+2026-03-05T19:49:57.343516-03:00 Casa sudo: pam_unix(sudo:auth): auth could not identify password for [jubarte]
+2026-03-05T19:50:05.950139-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/if_statements ; USER=root ; COMMAND=/usr/bin/chmod +x if_statement_8.sh
+2026-03-05T19:50:05.953712-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-05T19:50:05.958626-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-05T19:50:12.141407-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/if_statements ; USER=root ; COMMAND=/usr/bin/apt update
+2026-03-05T19:50:12.142132-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-05T19:50:28.832419-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-05T19:50:28.837040-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/if_statements ; USER=root ; COMMAND=/usr/bin/apt install -y htop
+2026-03-05T19:50:28.837314-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-05T19:50:29.314976-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-05T19:52:58.528649-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/if_statements ; USER=root ; COMMAND=/usr/bin/chmod +x if_statement_10.sh
+2026-03-05T19:52:58.532511-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-05T19:52:58.536848-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-05T20:09:27.035243-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/if_statements ; USER=root ; COMMAND=/usr/bin/chmod +x concatenate_test.sh
+2026-03-05T20:09:27.041923-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-05T20:09:27.042340-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-05T20:17:02.865894-03:00 Casa CRON[8774]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-05T20:17:02.876509-03:00 Casa CRON[8774]: pam_unix(cron:session): session closed for user root
+2026-03-05T20:25:55.072909-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/if_statements ; USER=root ; COMMAND=/usr/bin/chmod +x if_statement_11.sh
+2026-03-05T20:25:55.078090-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-05T20:25:55.078213-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-05T20:26:03.587793-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/if_statements ; USER=root ; COMMAND=/usr/bin/apt udpate
+2026-03-05T20:26:03.588454-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-05T20:26:03.606354-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-05T20:26:42.348894-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/if_statements ; USER=root ; COMMAND=/usr/bin/apt udpate
+2026-03-05T20:26:42.350515-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-05T20:26:42.356717-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-05T23:17:03.263355-03:00 Casa CRON[9122]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-05T23:17:03.393677-03:00 Casa CRON[9122]: pam_unix(cron:session): session closed for user root
+2026-03-06T10:17:02.351726-03:00 Casa CRON[9329]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-06T10:17:02.361464-03:00 Casa CRON[9329]: pam_unix(cron:session): session closed for user root
+2026-03-06T12:17:01.842604-03:00 Casa CRON[9548]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-06T12:17:01.901040-03:00 Casa CRON[9548]: pam_unix(cron:session): session closed for user root
+2026-03-06T13:17:01.330853-03:00 Casa CRON[9718]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-06T13:17:01.389582-03:00 Casa CRON[9718]: pam_unix(cron:session): session closed for user root
+2026-03-06T13:30:54.572163-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/if_statements/exercises ; USER=root ; COMMAND=/usr/bin/chmod +x exercise_1.sh
+2026-03-06T13:30:54.579726-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-06T13:30:54.588411-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-06T14:17:01.486093-03:00 Casa CRON[9840]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-06T14:17:01.500949-03:00 Casa CRON[9840]: pam_unix(cron:session): session closed for user root
+2026-03-06T15:17:01.575957-03:00 Casa CRON[9860]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-06T15:17:01.620741-03:00 Casa CRON[9860]: pam_unix(cron:session): session closed for user root
+2026-03-06T16:17:01.732488-03:00 Casa CRON[9875]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-06T16:17:01.792561-03:00 Casa CRON[9875]: pam_unix(cron:session): session closed for user root
+2026-03-06T17:17:01.883602-03:00 Casa CRON[9926]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-06T17:17:01.897892-03:00 Casa CRON[9926]: pam_unix(cron:session): session closed for user root
+2026-03-06T18:17:02.179714-03:00 Casa CRON[9941]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-06T18:17:02.232361-03:00 Casa CRON[9941]: pam_unix(cron:session): session closed for user root
+2026-03-06T19:04:28.222815-03:00 Casa sudo: pam_unix(sudo:auth): conversation failed
+2026-03-06T19:04:28.229239-03:00 Casa sudo: pam_unix(sudo:auth): auth could not identify password for [jubarte]
+2026-03-06T19:04:34.873806-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/if_statements/exercises ; USER=root ; COMMAND=/usr/bin/chmod +x exercise_2.sh
+2026-03-06T19:04:34.880959-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-06T19:04:34.893076-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-06T19:17:01.376523-03:00 Casa CRON[10391]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-06T19:17:01.427381-03:00 Casa CRON[10391]: pam_unix(cron:session): session closed for user root
+2026-03-06T19:55:38.260407-03:00 Casa sudo: pam_unix(sudo:auth): authentication failure; logname= uid=1000 euid=0 tty=/dev/pts/0 ruser=jubarte rhost=  user=jubarte
+2026-03-06T19:55:41.285515-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/if_statements/exercises ; USER=root ; COMMAND=/usr/bin/chmod +x exercise_3.sh
+2026-03-06T19:55:41.288751-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-06T19:55:41.295112-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-06T20:14:24.196397-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/if_statements/exercises ; USER=root ; COMMAND=/usr/bin/chmod +x exercise_4.sh
+2026-03-06T20:14:24.203445-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-06T20:14:24.209197-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-06T20:17:03.018867-03:00 Casa CRON[10480]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-06T20:17:03.027304-03:00 Casa CRON[10480]: pam_unix(cron:session): session closed for user root
+2026-03-06T20:18:58.363508-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/if_statements/exercises ; USER=root ; COMMAND=/usr/bin/chmod +x exercise_5.sh
+2026-03-06T20:18:58.367495-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-06T20:18:58.367602-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-06T20:23:38.015035-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/if_statements/exercises ; USER=root ; COMMAND=/usr/bin/chmod +x exercise_6.sh
+2026-03-06T20:23:38.019831-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-06T20:23:38.020312-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-06T21:17:02.911404-03:00 Casa CRON[10519]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-06T21:17:02.999864-03:00 Casa CRON[10519]: pam_unix(cron:session): session closed for user root
+2026-03-07T12:17:01.155535-03:00 Casa CRON[10846]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-07T12:17:01.267756-03:00 Casa CRON[10846]: pam_unix(cron:session): session closed for user root
+2026-03-07T13:17:01.422252-03:00 Casa CRON[10991]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-07T13:17:01.441278-03:00 Casa CRON[10991]: pam_unix(cron:session): session closed for user root
+2026-03-09T12:00:50.835325-03:00 Casa systemd-logind[187]: New seat seat0.
+2026-03-09T12:00:54.741285-03:00 Casa login[342]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2026-03-09T12:00:54.741735-03:00 Casa login[342]: PAM adding faulty module: pam_lastlog.so
+2026-03-09T12:00:55.921505-03:00 Casa login[342]: pam_unix(login:session): session opened for user jubarte(uid=1000) by jubarte(uid=0)
+2026-03-09T12:00:55.969243-03:00 Casa systemd-logind[187]: New session 1 of user jubarte.
+2026-03-09T12:00:56.023354-03:00 Casa (systemd): pam_unix(systemd-user:session): session opened for user jubarte(uid=1000) by jubarte(uid=0)
+2026-03-09T12:17:01.631281-03:00 Casa CRON[714]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-09T12:17:01.676220-03:00 Casa CRON[714]: pam_unix(cron:session): session closed for user root
+2026-03-09T12:36:42.018178-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/exit_codes ; USER=root ; COMMAND=/usr/bin/chmod +x exit_code_1.sh
+2026-03-09T12:36:42.033620-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T12:36:42.050767-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-09T12:36:47.699439-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/exit_codes ; USER=root ; COMMAND=/usr/bin/apt install htop
+2026-03-09T12:36:47.711744-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T12:36:50.546108-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-09T12:41:47.350271-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/exit_codes ; USER=root ; COMMAND=/usr/bin/apt remove htop
+2026-03-09T12:41:47.377459-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T12:43:27.283933-03:00 Casa polkitd[971]: Loading rules from directory /etc/polkit-1/rules.d
+2026-03-09T12:43:27.285515-03:00 Casa polkitd[971]: Loading rules from directory /usr/share/polkit-1/rules.d
+2026-03-09T12:43:27.294540-03:00 Casa polkitd[971]: Finished loading, compiling and executing 4 rules
+2026-03-09T12:43:27.301271-03:00 Casa polkitd[971]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+2026-03-09T12:43:27.641359-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-09T12:43:31.905189-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/exit_codes ; USER=root ; COMMAND=/usr/bin/apt install htop
+2026-03-09T12:43:31.912621-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T12:43:38.925092-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-09T12:46:55.951414-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/exit_codes ; USER=root ; COMMAND=/usr/bin/apt install notexist
+2026-03-09T12:46:55.961548-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T12:46:57.378146-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-09T12:53:48.529692-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/exit_codes ; USER=root ; COMMAND=/usr/bin/apt install htop
+2026-03-09T12:53:48.557035-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T12:53:50.228545-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-09T12:55:48.998749-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/exit_codes ; USER=root ; COMMAND=/usr/bin/apt remove htop
+2026-03-09T12:55:49.005098-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T12:55:51.835030-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-09T12:55:55.560963-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/exit_codes ; USER=root ; COMMAND=/usr/bin/apt remove htop -y
+2026-03-09T12:55:55.563913-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T12:56:01.500260-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-09T12:56:12.157723-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/exit_codes ; USER=root ; COMMAND=/usr/bin/apt install htop
+2026-03-09T12:56:12.163059-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T12:56:19.674524-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-09T13:17:01.852986-03:00 Casa CRON[1563]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-09T13:17:01.880867-03:00 Casa CRON[1563]: pam_unix(cron:session): session closed for user root
+2026-03-09T13:20:21.007086-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/exit_codes ; USER=root ; COMMAND=/usr/bin/chmod +x exit_code_4.sh
+2026-03-09T13:20:21.016415-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T13:20:21.019597-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-09T13:25:58.749618-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/exit_codes ; USER=root ; COMMAND=/usr/bin/apt install notexist
+2026-03-09T13:25:58.753977-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T13:26:00.646929-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-09T13:29:32.509812-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/exit_codes ; USER=root ; COMMAND=/usr/bin/apt install htop
+2026-03-09T13:29:32.511078-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T13:29:34.168408-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-09T13:30:44.342416-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/exit_codes ; USER=root ; COMMAND=/usr/bin/apt install htop
+2026-03-09T13:30:44.344372-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T13:30:45.943831-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-09T13:31:24.091306-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/exit_codes ; USER=root ; COMMAND=/usr/bin/apt remove htop -y
+2026-03-09T13:31:24.094177-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T13:31:28.570231-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-09T13:31:35.839971-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/exit_codes ; USER=root ; COMMAND=/usr/bin/apt install htop
+2026-03-09T13:31:35.859789-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T13:31:42.596967-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-09T13:33:17.391669-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/exit_codes ; USER=root ; COMMAND=/usr/bin/apt install htopddodo
+2026-03-09T13:33:17.399530-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T13:33:18.905852-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-09T13:44:10.811060-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/exit_codes ; USER=root ; COMMAND=/usr/bin/chmod +x exit_code_5.sh
+2026-03-09T13:44:10.818961-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T13:44:10.828153-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-09T14:13:40.650684-03:00 Casa sudo: pam_unix(sudo:auth): authentication failure; logname= uid=1000 euid=0 tty=/dev/pts/0 ruser=jubarte rhost=  user=jubarte
+2026-03-09T14:13:44.577858-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/exit_codes ; USER=root ; COMMAND=/usr/bin/chmod +x exit_code_6.sh
+2026-03-09T14:13:44.585514-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T14:13:44.601916-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-09T14:17:01.800895-03:00 Casa CRON[2330]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-09T14:17:01.812186-03:00 Casa CRON[2330]: pam_unix(cron:session): session closed for user root
+2026-03-09T14:19:03.796272-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/exit_codes ; USER=root ; COMMAND=/usr/bin/apt install notexist
+2026-03-09T14:19:03.804652-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T14:19:05.601721-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-09T14:21:57.036172-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/exit_codes ; USER=root ; COMMAND=/usr/bin/chmod +x exit_code_7.sh
+2026-03-09T14:21:57.044916-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T14:21:57.045112-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-09T14:33:34.685902-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/exit_codes/exercise_exit_code ; USER=root ; COMMAND=/usr/bin/chmod +x exercise_1.sh
+2026-03-09T14:33:34.697839-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T14:33:34.713946-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-09T19:06:46.387200-03:00 Casa sudo: pam_unix(sudo:auth): authentication failure; logname= uid=1000 euid=0 tty=/dev/pts/0 ruser=jubarte rhost=  user=jubarte
+2026-03-09T19:07:11.992103-03:00 Casa sudo:  jubarte : 3 incorrect password attempts ; TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/exit_codes/exercise_exit_code ; USER=root ; COMMAND=/usr/bin/chmod +x exercise_2.sh
+2026-03-09T19:07:22.563806-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/exit_codes/exercise_exit_code ; USER=root ; COMMAND=/usr/bin/chmod +x exercise_2.sh
+2026-03-09T19:07:22.569746-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T19:07:22.577318-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-09T19:17:00.283689-03:00 Casa CRON[3110]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-09T19:17:00.423438-03:00 Casa CRON[3110]: pam_unix(cron:session): session closed for user root
+2026-03-09T20:40:36.900666-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/while-loop ; USER=root ; COMMAND=/usr/bin/chmod +x while_1.sh
+2026-03-09T20:40:36.906205-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T20:40:36.912412-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-09T20:58:32.911283-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/while-loop ; USER=root ; COMMAND=/usr/bin/chmod +x while_2.sh
+2026-03-09T20:58:32.918077-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T20:58:32.921917-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-09T21:17:01.831201-03:00 Casa CRON[3365]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-09T21:17:01.839485-03:00 Casa CRON[3365]: pam_unix(cron:session): session closed for user root
+2026-03-09T21:24:11.051444-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash-script-study/bash_scripting_practice/bash-script-files/mock_scripts/while-loop ; USER=root ; COMMAND=/usr/bin/chmod +x while_3.sh
+2026-03-09T21:24:11.055843-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-09T21:24:11.056203-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-10T11:17:01.588161-03:00 Casa CRON[36026]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-10T11:17:01.731343-03:00 Casa CRON[36026]: pam_unix(cron:session): session closed for user root
+2026-03-10T11:21:52.037615-03:00 Casa sudo:  jubarte : TTY=pts/2 ; PWD=/home/jubarte/bash_scripting_practice/bash-script-files/mock_scripts/while-loop/exercise ; USER=root ; COMMAND=/usr/bin/chmod +x exercise_1.sh
+2026-03-10T11:21:52.065736-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-10T11:21:52.066730-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-10T11:25:34.543900-03:00 Casa sudo:  jubarte : TTY=pts/2 ; PWD=/home/jubarte/bash_scripting_practice/bash-script-files/mock_scripts/while-loop/exercise ; USER=root ; COMMAND=/usr/bin/chmod +x exercise_2.sh
+2026-03-10T11:25:34.554709-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-10T11:25:34.555040-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-10T11:29:55.719099-03:00 Casa sudo:  jubarte : TTY=pts/2 ; PWD=/home/jubarte/bash_scripting_practice/bash-script-files/mock_scripts/while-loop/exercise ; USER=root ; COMMAND=/usr/bin/chmod +x exercise_3.sh
+2026-03-10T11:29:55.720876-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-10T11:29:55.729960-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-10T12:17:01.924241-03:00 Casa CRON[36414]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-10T12:17:02.000262-03:00 Casa CRON[36414]: pam_unix(cron:session): session closed for user root
+2026-03-10T13:17:01.387055-03:00 Casa CRON[36684]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-10T13:17:01.475142-03:00 Casa CRON[36684]: pam_unix(cron:session): session closed for user root
+2026-03-10T14:17:01.707934-03:00 Casa CRON[37451]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-10T14:17:01.786207-03:00 Casa CRON[37451]: pam_unix(cron:session): session closed for user root
+2026-03-10T14:45:55.465890-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash_scripting_practice/bash-script-files/mock_scripts/update-script ; USER=root ; COMMAND=/usr/bin/chmod +x update_1.sh
+2026-03-10T14:45:55.485490-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-10T14:45:55.498185-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-10T14:45:58.834959-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash_scripting_practice/bash-script-files/mock_scripts/update-script ; USER=root ; COMMAND=/usr/bin/apt update
+2026-03-10T14:45:58.844403-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-10T14:46:24.337280-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-10T14:46:24.352181-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash_scripting_practice/bash-script-files/mock_scripts/update-script ; USER=root ; COMMAND=/usr/bin/apt dist-upgrade
+2026-03-10T14:46:24.355433-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-10T14:47:00.580272-03:00 Casa polkitd[971]: Reloading rules
+2026-03-10T14:47:00.589132-03:00 Casa polkitd[971]: Collecting garbage unconditionally...
+2026-03-10T14:47:00.591603-03:00 Casa polkitd[971]: Loading rules from directory /etc/polkit-1/rules.d
+2026-03-10T14:47:00.598986-03:00 Casa polkitd[971]: Loading rules from directory /usr/share/polkit-1/rules.d
+2026-03-10T14:47:00.614228-03:00 Casa polkitd[971]: Finished loading, compiling and executing 4 rules
+2026-03-10T14:47:00.619771-03:00 Casa polkitd[971]: Reloading rules
+2026-03-10T14:47:00.620874-03:00 Casa polkitd[971]: Collecting garbage unconditionally...
+2026-03-10T14:47:00.621163-03:00 Casa polkitd[971]: Loading rules from directory /etc/polkit-1/rules.d
+2026-03-10T14:47:00.621281-03:00 Casa polkitd[971]: Loading rules from directory /usr/share/polkit-1/rules.d
+2026-03-10T14:47:00.621433-03:00 Casa polkitd[971]: Finished loading, compiling and executing 4 rules
+2026-03-10T14:47:32.686612-03:00 Casa polkitd[971]: Reloading rules
+2026-03-10T14:47:32.687259-03:00 Casa polkitd[971]: Collecting garbage unconditionally...
+2026-03-10T14:47:32.687744-03:00 Casa polkitd[971]: Loading rules from directory /etc/polkit-1/rules.d
+2026-03-10T14:47:32.688172-03:00 Casa polkitd[971]: Loading rules from directory /usr/share/polkit-1/rules.d
+2026-03-10T14:47:32.689457-03:00 Casa polkitd[971]: Finished loading, compiling and executing 4 rules
+2026-03-10T14:47:32.689858-03:00 Casa polkitd[971]: Reloading rules
+2026-03-10T14:47:32.690022-03:00 Casa polkitd[971]: Collecting garbage unconditionally...
+2026-03-10T14:47:32.690068-03:00 Casa polkitd[971]: Loading rules from directory /etc/polkit-1/rules.d
+2026-03-10T14:47:32.690961-03:00 Casa polkitd[971]: Loading rules from directory /usr/share/polkit-1/rules.d
+2026-03-10T14:47:32.692867-03:00 Casa polkitd[971]: Finished loading, compiling and executing 4 rules
+2026-03-10T14:48:24.734114-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-10T14:55:56.602587-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash_scripting_practice/bash-script-files/mock_scripts/update-script ; USER=root ; COMMAND=/usr/bin/chmod +x udpate_2.sh
+2026-03-10T14:55:56.618460-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-10T14:55:56.620718-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-10T16:14:55.335366-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash_scripting_practice/bash-script-files/mock_scripts/update-script ; USER=root ; COMMAND=/usr/bin/apt udpate
+2026-03-10T16:14:55.350769-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-10T16:14:55.415149-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-10T16:14:55.438415-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash_scripting_practice/bash-script-files/mock_scripts/update-script ; USER=root ; COMMAND=/usr/bin/apt dist-upgrade
+2026-03-10T16:14:55.445719-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-10T16:14:59.294430-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-10T16:17:01.772899-03:00 Casa CRON[42084]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-10T16:17:01.776725-03:00 Casa CRON[42084]: pam_unix(cron:session): session closed for user root
+2026-03-10T17:02:41.387836-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash_scripting_practice/bash-script-files/mock_scripts/update-script ; USER=root ; COMMAND=/usr/bin/apt udpate
+2026-03-10T17:02:41.398114-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-10T17:02:41.491200-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-10T17:02:41.508661-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash_scripting_practice/bash-script-files/mock_scripts/update-script ; USER=root ; COMMAND=/usr/bin/apt dist-upgrade
+2026-03-10T17:02:41.512334-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-10T17:02:42.796894-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-10T17:09:56.695091-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash_scripting_practice/bash-script-files/mock_scripts/update-script ; USER=root ; COMMAND=/usr/bin/apt udpate
+2026-03-10T17:09:56.704507-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-10T17:09:56.707705-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-10T17:09:56.715380-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash_scripting_practice/bash-script-files/mock_scripts/update-script ; USER=root ; COMMAND=/usr/bin/apt dist-upgrade
+2026-03-10T17:09:56.718305-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-10T17:09:57.580216-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-10T17:17:02.503031-03:00 Casa CRON[42420]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-10T17:17:02.507180-03:00 Casa CRON[42420]: pam_unix(cron:session): session closed for user root
+2026-03-10T18:17:02.363959-03:00 Casa CRON[42535]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-03-10T18:17:02.380037-03:00 Casa CRON[42535]: pam_unix(cron:session): session closed for user root
+2026-03-10T18:29:16.956642-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash_scripting_practice/bash-script-files/mock_scripts/loops/for-loop ; USER=root ; COMMAND=/usr/bin/chmod +x for_loop_1.sh
+2026-03-10T18:29:16.963926-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-10T18:29:16.964602-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-10T18:56:59.452423-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash_scripting_practice/bash-script-files/mock_scripts/loops/for-loop ; USER=root ; COMMAND=/usr/bin/chmod +x for_loop_2.sh
+2026-03-10T18:56:59.458239-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-10T18:56:59.459606-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root
+2026-03-10T19:15:00.614850-03:00 Casa sudo:  jubarte : TTY=pts/0 ; PWD=/home/jubarte/bash_scripting_practice/bash-script-files/mock_scripts/loops/for-loop ; USER=root ; COMMAND=/usr/bin/chmod +x for_loop_3.sh
+2026-03-10T19:15:00.621413-03:00 Casa sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2026-03-10T19:15:00.623829-03:00 Casa sudo: pam_unix(sudo:session): session closed for user root

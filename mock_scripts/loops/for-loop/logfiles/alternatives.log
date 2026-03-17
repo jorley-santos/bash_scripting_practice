@@ -1,0 +1,1 @@
+update-alternatives 2026-03-10 14:46:56: run with --install /usr/bin/pager pager /bin/more 50 --slave /usr/share/man/man1/pager.1.gz pager.1.gz /usr/share/man/man1/more.1.gz

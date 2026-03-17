@@ -1,0 +1,4 @@
+find: ‘/etc/credstore.encrypted’: Permission denied
+find: ‘/etc/polkit-1/rules.d’: Permission denied
+find: ‘/etc/credstore’: Permission denied
+find: ‘/etc/ssl/private’: Permission denied
