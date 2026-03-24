@@ -1,7 +1,7 @@
 # Backup-Folder
 
 
-Objective: This repository was created to store the scripts I used to practice some basic Bash Shell operations. The main script is used to create an executable backup command in Bash. This command creates a copy of any folder inserted by the user, according the following structure:
+Objective: This repository was created to store scripts I used to practice some basic Bash Shell operations. The main script (/script/backup.sh) is used to create an executable backup command in Bash. This command creates a copy of any folder inserted by the user, according the following structure:
 
 $ backup \<folder>
 
